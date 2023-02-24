@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Starbucks" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977591.png" alt="Starbucks" />
 
 &#xa0;
 
@@ -35,7 +35,7 @@ Clone da pagina do starbucks responsiva feita com html,css e js
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/starbucks
+$ git clone https://github.com/GuilhaoF/Clone-Starbucks.git
 
 ```
 
