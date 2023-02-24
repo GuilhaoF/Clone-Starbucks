@@ -15,21 +15,21 @@
 
 <hr> -->
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
-</p>
-
 <br>
 
 ## :dart: About
 
-Clone da pagina do starbucks feito com html,css e js
+Clone da pagina do starbucks responsiva feita com html,css e js
+
+## :camera: Screenshots
+
+## :computer: Desktop
+
+![Desktop](https://user-images.githubusercontent.com/67026555/221282866-3f455b4a-5e1c-4c62-b1cd-a28af811dad2.png)
+
+## :iphone: Mobile
+
+![mobile](https://user-images.githubusercontent.com/67026555/221283655-cff5decb-32f8-497c-a8a5-8ade9591205e.png)
 
 ## :checkered_flag: Starting
 
